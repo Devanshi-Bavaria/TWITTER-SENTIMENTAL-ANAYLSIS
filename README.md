@@ -18,7 +18,7 @@ The goal of this project is to classify tweets into positive or negative sentime
 
 ## Dataset
 The Sentiment140 dataset includes the following fields:
-- `target`: Polarity of the tweet (0 = negative, 1 = positive)
+- `target`: Polarity of the tweet (0 = negative 😞, 1 = positive 😃)
 - `ids`: Unique id of the tweet
 - `date`: Date of the tweet
 - `flag`: Query (if no query, it's NO_QUERY)
