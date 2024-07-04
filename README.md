@@ -25,7 +25,7 @@ The Sentiment140 dataset includes the following fields:
 - `user`: Name of the user who tweeted
 - `text`: Text of the tweet
 
-  ## Dependencies
+## Dependencies
 To run this project, you'll need the following Python packages:
 ```sh
 import pandas as pd
