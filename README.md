@@ -27,7 +27,7 @@ The Sentiment140 dataset includes the following fields:
 
   ## Dependencies
 To run this project, you'll need the following Python packages:
-```python
+```sh
 import pandas as pd
 import matplotlib.pyplot as plt
 import nltk
