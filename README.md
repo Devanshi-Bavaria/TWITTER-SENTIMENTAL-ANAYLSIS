@@ -1,6 +1,6 @@
 # TWITTER-SENTIMENTAL-ANAYLSIS
 
-This project focuses on classifying tweets into positive or negative sentiments. It contains 1,600,000 tweets extracted using the twitter api. We use the Sentiment140 dataset for training and testing our model, displaying the results using bar graphs and pie charts.
+This project focuses on classifying tweets into positive or negative sentiments. We use the Sentiment140 dataset for training and testing our model, displaying the results using bar graphs and pie charts.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -14,7 +14,7 @@ This project focuses on classifying tweets into positive or negative sentiments.
 - [Usage](#usage)
 
 ## Overview
-The goal of this project is to classify tweets into positive or negative sentiments using the Sentiment140 dataset. We perform data visualization to understand the distribution of sentiments and apply machine learning techniques to build a classification model.
+The goal of this project is to classify tweets into positive or negative sentiments using the Sentiment140 dataset.  It contains 1,600,000 tweets extracted using the twitter api. We perform data visualization to understand the distribution of sentiments and apply machine learning techniques to build a classification model.
 
 ## Dataset
 The Sentiment140 dataset includes the following fields:
